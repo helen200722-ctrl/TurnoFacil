@@ -1,7 +1,7 @@
 # TurnoFácil — Plataforma de Turnos & Marketplace de Mocoa
 
 **Enfoque:** Marketplace y Sistema de Turnos / Reservas para Restaurantes y Barberías de **Mocoa, Putumayo**  
-**Propietario / Super Admin del Desarrollo:** **Nanotec**  
+**Propietario / Super Admin del Desarrollo:** **Helen**  
 **Institución Académica:** Institución Universitaria del Putumayo (**ITP**) — Programa en Desarrollo de Software  
 **Proyecto de Software 1** (Docente: Luis Jurado)  
 **Autores del Documento Base:** Helen Solarte – Enid – Marbell Urrutia – Estefania Perenguez  
